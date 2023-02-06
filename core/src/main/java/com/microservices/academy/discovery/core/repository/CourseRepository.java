@@ -1,7 +1,7 @@
-package com.microservices.academy.core.repository;
+package com.microservices.academy.discovery.core.repository;
 
 
-import com.microservices.academy.core.model.Course;
+import com.microservices.academy.discovery.core.model.Course;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 

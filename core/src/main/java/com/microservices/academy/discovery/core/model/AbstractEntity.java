@@ -1,4 +1,4 @@
-package com.microservices.academy.core.model;
+package com.microservices.academy.discovery.core.model;
 
 import java.io.Serializable;
 

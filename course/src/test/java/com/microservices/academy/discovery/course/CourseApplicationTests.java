@@ -1,4 +1,4 @@
-package com.microservices.academy.course;
+package com.microservices.academy.discovery.course;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

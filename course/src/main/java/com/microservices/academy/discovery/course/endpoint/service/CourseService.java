@@ -1,8 +1,8 @@
-package com.microservices.academy.course.endpoint.service;
+package com.microservices.academy.discovery.course.endpoint.service;
 
 
-import com.microservices.academy.core.model.Course;
-import com.microservices.academy.core.repository.CourseRepository;
+import com.microservices.academy.discovery.core.model.Course;
+import com.microservices.academy.discovery.core.repository.CourseRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

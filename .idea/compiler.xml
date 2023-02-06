@@ -9,14 +9,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="course" />
         <module name="core" />
+        <module name="discovery" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="core" options="-parameters" />
       <module name="course" options="-parameters" />
       <module name="devdojo-course" options="" />
+      <module name="discovery" options="-parameters" />
+      <module name="untitled" options="-parameters" />
     </option>
   </component>
 </project>
